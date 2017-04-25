@@ -184,7 +184,6 @@ module.exports = {
             ],
             exampleSearchDoubleAsteriskIntro: `Sie geben in einer Ressource <span class="searchPhrase">*wirtschaft*</span> ein und erhalten zusätzlich Treffer, in denen z.B. folgende Worte vorkommen:`,
             exampleSearchDoubleAsteriskList: [
-                'Wirtschaft',
                 'Betriebswirtschaftslehre',
                 'Hauswirtschaftlerin'
             ],
